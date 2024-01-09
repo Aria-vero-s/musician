@@ -10,7 +10,7 @@ I built this website from scratch with CSS, HTML, and Boostrap. I designed the w
 The Figma project can be viewed here:
 - https://www.figma.com/file/LJJI3EXvXNAwuXMFmqF2iJ/Untitled?type=design&node-id=0%3A1&t=coweXtVQp1Jc2o2Y-1
 
-The deployed link is here:
+The deployed link is here: https://aria-vero-s.github.io/musician/
 
 
 ## Ressources
